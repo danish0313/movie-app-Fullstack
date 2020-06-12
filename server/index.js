@@ -4,7 +4,7 @@ const path = require("path");
 const cors = require('cors')
 
 const bodyParser = require("body-parser");
-const cookieParser = require("cookie-parser");
+const cookieParser= require("cookie-parser");
 
 const config = require("./config/key");
 
